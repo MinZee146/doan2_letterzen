@@ -1,0 +1,452 @@
+{
+    "1": [
+        "cat",
+        "dog",
+        "bat",
+        "rat",
+        "fox",
+        "owl",
+        "bee"
+    ],
+    "2": [
+        "sun",
+        "hot",
+        "warm",
+        "cold",
+        "cool",
+        "heat",
+        "wind"
+    ],
+    "3": [
+        "big",
+        "huge",
+        "tiny",
+        "small",
+        "short",
+        "tall",
+        "wide"
+    ],
+    "4": [
+        "red",
+        "blue",
+        "green",
+        "white",
+        "black",
+        "brown",
+        "yellow"
+    ],
+    "5": [
+        "run",
+        "walk",
+        "jump",
+        "move",
+        "stand",
+        "crawl",
+        "dance"
+    ],
+    "6": [
+        "food",
+        "milk",
+        "rice",
+        "meat",
+        "fruit",
+        "sugar",
+        "water"
+    ],
+    "7": [
+        "home",
+        "room",
+        "house",
+        "table",
+        "chair",
+        "lamp",
+        "floor"
+    ],
+    "8": [
+        "light",
+        "shine",
+        "glow",
+        "bright",
+        "flame",
+        "spark",
+        "flash"
+    ],
+    "9": [
+        "drink",
+        "juice",
+        "soda",
+        "water",
+        "coffee",
+        "shake",
+        "glass"
+    ],
+    "10": [
+        "happy",
+        "smile",
+        "laugh",
+        "cheer",
+        "great",
+        "glad",
+        "enjoy"
+    ],
+    "11": [
+        "ocean",
+        "beach",
+        "waves",
+        "coral",
+        "shark",
+        "whale",
+        "shell"
+    ],
+    "12": [
+        "music",
+        "piano",
+        "violin",
+        "guitar",
+        "notes",
+        "singer",
+        "voice"
+    ],
+    "13": [
+        "money",
+        "coins",
+        "price",
+        "spend",
+        "store",
+        "shops",
+        "sales"
+    ],
+    "14": [
+        "paper",
+        "pencil",
+        "eraser",
+        "write",
+        "words",
+        "pages",
+        "books"
+    ],
+    "15": [
+        "cloud",
+        "storm",
+        "light",
+        "sunny",
+        "rainy",
+        "windy",
+        "breeze"
+    ],
+    "16": [
+        "angry",
+        "happy",
+        "scared",
+        "upset",
+        "calm",
+        "proud",
+        "brave"
+    ],
+    "17": [
+        "earth",
+        "stone",
+        "metal",
+        "grass",
+        "woods",
+        "plant",
+        "water"
+    ],
+    "18": [
+        "smoke",
+        "flame",
+        "burns",
+        "steam",
+        "spark",
+        "ember",
+        "ashes"
+    ],
+    "19": [
+        "train",
+        "plane",
+        "truck",
+        "drive",
+        "racer",
+        "wheels",
+        "motor"
+    ],
+    "20": [
+        "apple",
+        "mango",
+        "peach",
+        "berry",
+        "grape",
+        "lemon",
+        "melon"
+    ],
+    "21": [
+        "candy",
+        "sweet",
+        "sugar",
+        "tasty",
+        "choco",
+        "yummy",
+        "treat"
+    ],
+    "22": [
+        "snake",
+        "tiger",
+        "zebra",
+        "horse",
+        "mouse",
+        "donkey",
+        "monkey"
+    ],
+    "23": [
+        "phone",
+        "email",
+        "text",
+        "speak",
+        "voice",
+        "radio",
+        "signal"
+    ],
+    "24": [
+        "clock",
+        "watch",
+        "alarm",
+        "night",
+        "hours",
+        "timed",
+        "moment"
+    ],
+    "25": [
+        "blood",
+        "veins",
+        "heart",
+        "brain",
+        "hands",
+        "nails",
+        "bones"
+    ],
+    "26": [
+        "sport",
+        "games",
+        "tennis",
+        "hockey",
+        "soccer",
+        "races",
+        "skate"
+    ],
+    "27": [
+        "money",
+        "banks",
+        "cards",
+        "loans",
+        "bills",
+        "trade",
+        "coins"
+    ],
+    "28": [
+        "space",
+        "stars",
+        "earth",
+        "orbit",
+        "comet",
+        "black",
+        "light"
+    ],
+    "29": [
+        "study",
+        "learn",
+        "books",
+        "write",
+        "notes",
+        "class",
+        "teach"
+    ],
+    "30": [
+        "doctor",
+        "nurse",
+        "pills",
+        "cough",
+        "fever",
+        "sick",
+        "medic"
+    ],
+    "31": [
+        "river",
+        "ocean",
+        "water",
+        "flood",
+        "waves",
+        "fishy",
+        "boats"
+    ],
+    "32": [
+        "happy",
+        "laugh",
+        "smile",
+        "tears",
+        "worry",
+        "silly",
+        "jokes"
+    ],
+    "33": [
+        "enemy",
+        "fight",
+        "sword",
+        "arrow",
+        "guard",
+        "peace",
+        "rules"
+    ],
+    "34": [
+        "ghost",
+        "scary",
+        "witch",
+        "magic",
+        "spook",
+        "grave",
+        "candy"
+    ],
+    "35": [
+        "robot",
+        "metal",
+        "wires",
+        "cable",
+        "power",
+        "light",
+        "energy"
+    ],
+    "36": [
+        "planet",
+        "earth",
+        "venus",
+        "mars",
+        "orbit",
+        "space",
+        "aster"
+    ],
+    "37": [
+        "storm",
+        "cloud",
+        "thund",
+        "light",
+        "flood",
+        "winds",
+        "snowy"
+    ],
+    "38": [
+        "cabin",
+        "house",
+        "villa",
+        "hotel",
+        "rooms",
+        "keys",
+        "beded"
+    ],
+    "39": [
+        "earth",
+        "stone",
+        "metal",
+        "cliff",
+        "woods",
+        "plant",
+        "field"
+    ],
+    "40": [
+        "brain",
+        "think",
+        "smart",
+        "learn",
+        "ideas",
+        "logic",
+        "skill"
+    ],
+    "41": [
+        "magic",
+        "spell",
+        "witch",
+        "potion",
+        "curse",
+        "charm",
+        "power"
+    ],
+    "42": [
+        "frost",
+        "chill",
+        "ice",
+        "flame",
+        "fire",
+        "heat",
+        "burns"
+    ],
+    "43": [
+        "sword",
+        "blade",
+        "knight",
+        "armor",
+        "battle",
+        "guard",
+        "duel"
+    ],
+    "44": [
+        "track",
+        "train",
+        "metro",
+        "wheels",
+        "speed",
+        "lines",
+        "coach"
+    ],
+    "45": [
+        "fruit",
+        "plant",
+        "berry",
+        "green",
+        "juicy",
+        "sweet",
+        "apple"
+    ],
+    "46": [
+        "dance",
+        "music",
+        "tempo",
+        "groove",
+        "steps",
+        "shake",
+        "rhythm"
+    ],
+    "47": [
+        "shadow",
+        "ghost",
+        "spirit",
+        "haunt",
+        "chill",
+        "shade",
+        "fear"
+    ],
+    "48": [
+        "castle",
+        "tower",
+        "guard",
+        "moats",
+        "stone",
+        "royal",
+        "king"
+    ],
+    "49": [
+        "flame",
+        "burns",
+        "ember",
+        "heat",
+        "smoke",
+        "hot",
+        "steam"
+    ],
+    "50": [
+        "stars",
+        "night",
+        "moon",
+        "shine",
+        "light",
+        "galaxy",
+        "sky"
+    ]
+}

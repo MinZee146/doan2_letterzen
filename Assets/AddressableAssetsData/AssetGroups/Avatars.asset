@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Avatars
+  m_EditorClassIdentifier: 
+  m_GroupName: Avatars
+  m_GUID: 9e294374e7e4cef4eaa3be4d86eb7bab
+  m_SerializeEntries:
+  - m_GUID: 143fd4ace5be4014e95e29254453ce59
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_15.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 251cf2ed1ff9b4745a883dd7aa6c8e6d
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_12.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3544f509bd538b742a2a2516b8fe9dc0
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_05.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3778dc74fd81a1f4491031c7c14281d7
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 416b2c9b0360bf84c9e78526c195fce5
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_08.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ab208d3ed8d5bc4493b244478d81ddb
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74001089c4b0af1488036301c0e24c5d
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 828d4736f5085ca49bd93fd6778bc525
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_11.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a219083927417174086cbb813d6eba5c
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_06.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa13401886ff0ce48a9f4d2a901f59cc
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_09.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aecf3978608f91a4e8048c73ba246d9d
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_10.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6e11c0c61c04514d95ab42836aeb208
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_13.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef0fe61c87a8adb4aac5626cb3de35d0
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f33953061e7248e41b0580bbcd101c44
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_14.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f426327b900bbb540a5eff46dc9066ea
+    m_Address: Assets/_Game/Sprites/Word Puzzle Game Assets/Word Puzzle Game Assets/Popups/Avatar/Avatar_07.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatar
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: db60f52f42f8d304dab53cf211deac44, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b4778ccd79e043741ac74ae2e8c719a7, type: 2}
+    - {fileID: 11400000, guid: ef5dcdd505f0f5a4fabeaf57535ac21c, type: 2}

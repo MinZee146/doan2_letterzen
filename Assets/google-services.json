@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668904343965",
+    "project_id": "genix-letter-zen",
+    "storage_bucket": "genix-letter-zen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668904343965:android:aa07d88c3cffb11a568774",
+        "android_client_info": {
+          "package_name": "game.genix.letter.zen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3DlwbZ25mRKVsifJzumCa6LJcMyDyqRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

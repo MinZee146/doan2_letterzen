@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Dictionaries
+  m_EditorClassIdentifier: 
+  m_GroupName: Dictionaries
+  m_GUID: 1b53d241a5a6f094bba6e0c7db868137
+  m_SerializeEntries:
+  - m_GUID: 4d0a32227103a604dafed0b3e488b8ca
+    m_Address: Assets/_Game/Addressables/Dictionary/Theme.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - themed_word_list
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e0f43df8a3b2fe4c9cb34bab55171e1
+    m_Address: Assets/_Game/Addressables/Dictionary/Ladder.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ladder_word_list
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f4abc68e67000241839415d9011d829
+    m_Address: Assets/_Game/Addressables/Dictionary/Dictionary.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dictionary
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80b0e5f5deaa27a43860193b31efc9d5
+    m_Address: Assets/_Game/Addressables/Dictionary/Level.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level_word_list
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: db60f52f42f8d304dab53cf211deac44, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a4daa99216df4d74c91935bda84ab592, type: 2}
+    - {fileID: 11400000, guid: ef07edf3694f5204aa26bc1c2329dbe1, type: 2}

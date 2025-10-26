@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scenes
+  m_EditorClassIdentifier: 
+  m_GroupName: Scenes
+  m_GUID: 5562b1617d134f049adda64baddc04f2
+  m_SerializeEntries:
+  - m_GUID: 2a7d80ef71b7e9f439a341ec3b4860f6
+    m_Address: Assets/_Game/Scenes/ThemedMode.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - themed_scene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cda990e2423bbf4892e6590ba056729
+    m_Address: Assets/_Game/Scenes/Home.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - home_scene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f42980cd8fded54b8caab44f7f5f1de
+    m_Address: Assets/_Game/Scenes/LadderMode.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ladder_scene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68d503d067999c7448e4bcbbfbe12ac8
+    m_Address: Assets/_Game/Scenes/LevelMode.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level_scene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1faff37c4f6a435fb48dc0e4b0de5f3
+    m_Address: Assets/_Game/Scenes/Startup.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: db60f52f42f8d304dab53cf211deac44, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fc8bff10933ced241b762222143a20ab, type: 2}
+    - {fileID: 11400000, guid: 072b4b5d134f38c409c0a131338163b1, type: 2}

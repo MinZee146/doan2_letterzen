@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48721e67e3caf5249a985070a2e7d84b, type: 3}
+  m_Name: GoalPool
+  m_EditorClassIdentifier: 
+  GoalList:
+  - Type: 0
+    Amount: 3
+    Coin: 300
+    Description: Use Reveal Letter or Broom 3 times!
+  - Type: 0
+    Amount: 4
+    Coin: 400
+    Description: Use Reveal Letter or Broom 4 times!
+  - Type: 0
+    Amount: 5
+    Coin: 500
+    Description: Use Reveal Letter or Broom 5 times!
+  - Type: 0
+    Amount: 6
+    Coin: 600
+    Description: Use Reveal Letter or Broom 6 times!
+  - Type: 1
+    Amount: 3
+    Coin: 150
+    Description: Complete 3 Ladder Words!
+  - Type: 1
+    Amount: 4
+    Coin: 200
+    Description: Complete 4 Ladder Words!
+  - Type: 1
+    Amount: 5
+    Coin: 250
+    Description: Complete 5 Ladder Words!
+  - Type: 1
+    Amount: 6
+    Coin: 300
+    Description: Complete 6 Ladder Words!
+  - Type: 2
+    Amount: 3
+    Coin: 300
+    Description: Complete 3 Themed Words!
+  - Type: 2
+    Amount: 4
+    Coin: 400
+    Description: Complete 4 Themed Words!
+  - Type: 2
+    Amount: 5
+    Coin: 500
+    Description: Complete 5 Themed Words!
+  - Type: 3
+    Amount: 3
+    Coin: 300
+    Description: Complete 3 Level Words!
+  - Type: 3
+    Amount: 4
+    Coin: 400
+    Description: Complete 4 Level Words!
+  - Type: 3
+    Amount: 5
+    Coin: 500
+    Description: Complete 5 Level Words!

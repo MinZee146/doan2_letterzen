@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4337fa63e655c884fb2286ba55f6db53, type: 3}
+  m_Name: GameConfigs
+  m_EditorClassIdentifier: 
+  BannerStartFromLevel: 3
+  InterStartFromLevel: 3
+  MaxRvSpin: 1
+  CoinsPerAd: 100
+  RevealPrice: 200
+  ClearPrice: 400
+  DefinitionPrice: 300
+  RetryPrice: 100
+  CoinsCompletedWords: 250
+  CoinsCompletedTheme: 1000
+  CoinsCompletedLadderGroup: 200

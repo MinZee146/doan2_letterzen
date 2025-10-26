@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b5cad875890ae64cb68d978b952eb11, type: 3}
+  m_Name: MilestoneConfigs
+  m_EditorClassIdentifier: 
+  Milestones:
+  - RankName: Beginner I
+    RequiredExp: 1000
+    Rewards: []
+  - RankName: Beginner II
+    RequiredExp: 2000
+    Rewards: []
+  - RankName: Beginner III
+    RequiredExp: 3000
+    Rewards: []
+  - RankName: Experienced I
+    RequiredExp: 5000
+    Rewards: []
+  - RankName: Experienced II
+    RequiredExp: 7000
+    Rewards: []
+  - RankName: Experienced III
+    RequiredExp: 9000
+    Rewards: []
+  - RankName: Skilled I
+    RequiredExp: 12000
+    Rewards: []
+  - RankName: Skilled II
+    RequiredExp: 15000
+    Rewards: []
+  - RankName: Skilled III
+    RequiredExp: 18000
+    Rewards: []
+  - RankName: Expert I
+    RequiredExp: 22000
+    Rewards: []
+  - RankName: Expert II
+    RequiredExp: 26000
+    Rewards: []
+  - RankName: Expert III
+    RequiredExp: 30000
+    Rewards: []
+  - RankName: Elite I
+    RequiredExp: 35000
+    Rewards: []
+  - RankName: Elite II
+    RequiredExp: 40000
+    Rewards: []
+  - RankName: Elite III
+    RequiredExp: 45000
+    Rewards: []
+  - RankName: Master I
+    RequiredExp: 51000
+    Rewards: []
+  - RankName: Master II
+    RequiredExp: 57000
+    Rewards: []
+  - RankName: Master III
+    RequiredExp: 63000
+    Rewards: []
+  - RankName: Grandmaster I
+    RequiredExp: 70000
+    Rewards: []
+  - RankName: Grandmaster II
+    RequiredExp: 77000
+    Rewards: []
+  - RankName: Grandmaster III
+    RequiredExp: 84000
+    Rewards: []
+  - RankName: Undefeated I
+    RequiredExp: 92000
+    Rewards: []
+  - RankName: Undefeated II
+    RequiredExp: 100000
+    Rewards: []
+  - RankName: Undefeated III
+    RequiredExp: 200000
+    Rewards: []
